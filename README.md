@@ -5,7 +5,7 @@
 - 🌱 I’m always learning **New Tech, Analytics Tools, and Pizza Recipes 🍕**
 - 👯 I’m looking to collaborate on **AI-powered and data-driven projects**
 - 💬 Ask me about **Python | R | SQL | Power BI | Data Science**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [gopikassakipog@gmail.com](mailto:gopikassakipog@gmail.com)
 - ⚡ Fun fact: *I debug bugs better with music on* 🎧
 
 ---
