@@ -11,7 +11,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pluto-Dev&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gopikashreepr&show_icons=true&theme=radical)
 
 ---
 
