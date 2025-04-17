@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pluto</h1>
+<h3 align="center">🚀 AI & Data Science Explorer | Passionate Problem Solver | Dashboard Magician 🎨📊</h3>
 
-<!--
-**gopikashreepr/gopikashreepr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Machine Learning, Deep Learning & Power BI Dashboards**
+- 🌱 I’m always learning **New Tech, Analytics Tools, and Pizza Recipes 🍕**
+- 👯 I’m looking to collaborate on **AI-powered and data-driven projects**
+- 💬 Ask me about **Python | R | SQL | Power BI | Data Science**
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- ⚡ Fun fact: *I debug bugs better with music on* 🎧
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pluto-Dev&show_icons=true&theme=radical)
+
+---
+
+### 💼 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourname/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Pluto-Dev)
