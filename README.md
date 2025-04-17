@@ -25,15 +25,15 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,html,css,js,jupyter,github,git,pandas,numpy,scikit-learn,powerbi&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,jupyter,github,powerbi&theme=light" />
 </p>
 
 ---
 
 ### 🤝 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/gopikashreepr/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prgopikashreegs/)
 - 🌐 [Portfolio](#) (Coming soon 😉)
-- 📬 Email: gopikashree@example.com
+- 📬 Email: gopikaaaskipog@gmail.com
 
 ---
 
