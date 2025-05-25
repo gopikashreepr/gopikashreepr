@@ -32,7 +32,7 @@
 
 ### 🤝 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/prgopikashreegs/)
-- 🌐 [Portfolio](#) (Coming soon 😉)
+- 🌐 [Portfolio](https://gopikashreepr.github.io/my-portfolio/) 
 - 📬 Email: gopikaaaskipog@gmail.com
 
 ---
