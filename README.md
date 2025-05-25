@@ -3,7 +3,7 @@
 ### 👩‍💻 AI & Data Science Final-Year Student  
 🎯 Passionate about transforming data into powerful insights & interactive dashboards.  
 🔧 Skilled in:  
-- **Languages**: Python ⚙️ R 📊 SQL  
+- **Languages**: Python HTML CSS Javascript SQL 
 - **Tools & Frameworks**: Power BI, Pandas, NumPy, Matplotlib, Scikit-Learn, Jupyter Notebook  
 - **Concepts**: Machine Learning, Data Visualization, Predictive Modeling  
 
